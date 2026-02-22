@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akronplumbingteam.com/sitemap.xml
